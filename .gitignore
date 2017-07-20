@@ -5,3 +5,5 @@ composer.lock
 /tmp
 /coverage
 .idea
+/src/BEM
+Будет удалено src/BEM/
